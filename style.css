@@ -11,6 +11,11 @@
     margin: 5px;
 }
 
+h2 {
+    color: darkcyan;
+    font-style: bold;
+}
+
 .text {
     float: right;
 }
